@@ -45,5 +45,8 @@ Happy hacking! 🎭
 5.link travis to git repo (use getting started link -- optional)
 	Select payment plan for travis if haven't already
 
-6.On travis you can see the tests
+6. Add travis.yml file. (https://docs.travis-ci.com/user/tutorial/#to-get-started-with-travis-ci-using-github)
+	In my case I copy and pasted the .yml file from the .github folder created from playwright to the root directory
+
+
 
