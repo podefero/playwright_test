@@ -42,7 +42,8 @@ Visit https://playwright.dev/docs/intro for more information. ✨
 Happy hacking! 🎭
 
 4.Create git repo
-5.install travis on repo (use getting started link -- optional)
+5.link travis to git repo (use getting started link -- optional)
 	Select payment plan for travis if haven't already
-6.Actions should be setup on the repo now, I think every push will trigger a run.
+
+6.On travis you can see the tests
 
